@@ -1,7 +1,9 @@
 # all-project-version-selector
 all project version selector
 
+<body>
 <script type="text/javascript" src="lang.js"></script>
+</body>
 
 ```chinese
     所有组织都可使用的项目版本，依赖远程检索器
