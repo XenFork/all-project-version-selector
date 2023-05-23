@@ -1,7 +1,22 @@
 {
   "nucleoplasm_api_version": "1.0.0.27",
+  "nucleoplasm_feature_repair_version": "1.0.0.0",
+
+  "nucleoplasm_colony_version": "1.0.0.0",
   "nucleoplasm_command_line_version": "1.0.0.1",
+  "nucleoplasm_describer_version": "1.0.0.0",
+  "nucleoplasm_economy_version": "1.0.0.0",
+  "nucleoplasm_gateway_version": "1.0.0.0",
   "nucleoplasm_normandy_login_version": "1.0.0.0",
-  "nucleoplasm_json_edit_version": "1.0.0.3",
-  "nucleoplasm_api_dependencies_version": "1.0.0.26"
+
+  "nucleoplasm_biology_version": "1.0.0.0",
+  "nucleoplasm_chemistry_version": "1.0.0.0",
+  "nucleoplasm_deprecated_version": "1.0.0.0",
+  "nucleoplasm_interstellar_version": "1.0.0.0",
+  "nucleoplasm_nuclide_version": "1.0.0.0",
+  "nucleoplasm_json_edit_version": "1.0.0.4",
+
+  "nucleoplasm_api_dependencies_version": "1.0.0.26",
+
+  "nucleoplasm_json_edit_dependencies_version": "1.0.0.3"
 }
