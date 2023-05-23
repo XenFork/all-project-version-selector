@@ -1,14 +1,11 @@
 # all-project-version-selector
 all project version selector
 
-<body>
-<script type="text/javascript" src="lang.js"></script>
-</body>
-
 ```chinese
     所有组织都可使用的项目版本，依赖远程检索器
     用于在gradle远程获取版本信息最新依赖项的版本信息  
 ```
+
 ### 目前授权的组织有：
 - [AmazingRabbit Studio](https://github.com/AmazingRabbit-Studio)
 - [ChinaWareMC](https://github.com/ChinaWareMC)
