@@ -4,4 +4,4 @@ This is a project version selector.
 
 ---
 
-- [nucleoplasm version](nucleoplasm/nucleoplasm-version.json)
+- [nucleoplasm](nucleoplasm/index.md)
