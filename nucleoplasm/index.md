@@ -1,4 +1,4 @@
 ---
 - [../](../index.md)
-- [nucleoplasm](nucleoplasm-version.json)
-- [fabric-version](fabric-version.json)
+- [nucleoplasm version](nucleoplasm-version.json)
+- [fabric version](fabric-version.json)
