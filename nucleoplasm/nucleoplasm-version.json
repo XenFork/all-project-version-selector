@@ -14,11 +14,11 @@
   "nucleoplasm_deprecated_version": "1.0.0.0",
   "nucleoplasm_interstellar_version": "1.0.0.0",
   "nucleoplasm_nuclide_version": "1.0.0.0",
-  "nucleoplasm_json_edit_version": "1.0.0.4",
+  "nucleoplasm_json_edit_version": "1.0.0.5",
   "nucleoplasm_default_version": "1.0.0.0",
 
   "nucleoplasm_api_dependencies_version": "1.0.0.28",
 
-  "nucleoplasm_json_edit_dependencies_version": "1.0.0.3",
+  "nucleoplasm_json_edit_dependencies_version": "1.0.0.4",
   "nucleoplasm_default_dependencies_version": "1.0.0.0"
 }
