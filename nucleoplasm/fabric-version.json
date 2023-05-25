@@ -1,7 +1,7 @@
 {
-  "minecraft_version": "1.20-pre5",
-  "yarn_mappings": "1.20-pre5+build.3",
-  "loader_version": "0.14.19",
-  "alpha_version": "1.20-beta.5",
-  "fabric_version": "0.81.3+1.20"
+  "minecraft_version": "1.20-pre6",
+  "yarn_mappings": "1.20-pre6+build.2",
+  "loader_version": "0.14.20",
+  "alpha_version": "1.20-beta.6",
+  "fabric_version": "0.82.1+1.20"
 }
