@@ -1,14 +1,14 @@
 # all-project-version-selector
 all project version selector
 
-[简体中文] • [English](README_SEN.md)
+[简体中文](README.md) • [English]
 
-```chinese
-    所有组织都可使用的项目版本，依赖远程检索器
-    用于在gradle远程获取版本信息最新依赖项的版本信息  
+```english
+    The version of the item that is available to all organizations, relying on remote retrievers
+    Used to remotely get version information in gradle, version information of the latest dependencies  
 ```
 
-### 目前授权的组织有：
+### The organizations currently authorized are:
 - [AmazingRabbit Studio](https://github.com/AmazingRabbit-Studio)
 - [ChinaWareMC](https://github.com/ChinaWareMC)
 - [Funny Developers](https://github.com/Funny-Developers)
