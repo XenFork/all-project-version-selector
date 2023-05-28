@@ -1,7 +1,7 @@
 # all-project-version-selector
 all project version selector
 
-[简体中文](README.md) • [English]
+- [Select Language](SELECT_LANGUAGE.md)
 
 ```english
     The version of the item that is available to all organizations, relying on remote retrievers
@@ -14,6 +14,6 @@ all project version selector
 - [Funny Developers](https://github.com/Funny-Developers)
 - [Overrun Organization](https://github.com/Over-Run)
 - [SquidCraftTeam](https://github.com/SquidCraftTeam)
-- [氙叉联盟 - XenFork Union](https://github.com/XenFork)
+- [Xenon Alliance - XenFork Union](https://github.com/XenFork)
 
 

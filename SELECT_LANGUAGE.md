@@ -1,0 +1,6 @@
+- [简体中文](README.md)
+- [English](README_SEN.md)
+- [Deutsch](README_SDE.md)
+- [Japanese](README_SJA.md)
+- [Ксенон Альянс](README_SRU.md)
+- [Français](README_SFR.md)

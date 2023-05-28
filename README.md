@@ -1,7 +1,7 @@
 # all-project-version-selector
-all project version selector
+所有项目版本选择器
 
-[简体中文] • [English](README_SEN.md)
+- [Select Language](SELECT_LANGUAGE.md)
 
 ```chinese
     所有组织都可使用的项目版本，依赖远程检索器
