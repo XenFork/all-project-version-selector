@@ -1,8 +1,8 @@
 # all-project-version-selector
 所有项目版本选择器
 
-- [跳到主页](https://xenfork.github.io/all-project-version-selector/)
-- [Select Language](https://xenfork.github.io/all-project-version-selector/SELECT_LANGUAGE.html)
+- [返回主页](index.md)
+- [选择语言](SELECT_LANGUAGE.md)
 
 ```chinese
     所有组织都可使用的项目版本，依赖远程检索器

@@ -1,7 +1,8 @@
 # all-project-version-selector
 すべてのプロジェクトのバージョン セレクター
 
-- [Select Language](SELECT_LANGUAGE.md)
+- [ホームに戻る](index.md)
+- [言語の選択](SELECT_LANGUAGE.md)
 
 ```japanese
     すべての組織で使用できるアイテムのバージョン (リモート取得機能に依存する)
@@ -15,5 +16,3 @@
 - [Overrun Organization](https://github.com/Over-Run)
 - [SquidCraftTeam](https://github.com/SquidCraftTeam)
 - [キセノンアライアンス - XenFork Union](https://github.com/XenFork)
-
-

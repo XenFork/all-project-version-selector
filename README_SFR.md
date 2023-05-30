@@ -1,7 +1,8 @@
 # all-project-version-selector
 Tous les sélecteurs de version de projet
 
-- [Select Language](SELECT_LANGUAGE.md)
+- [Retour à la page d'accueil](index.md)
+- [Choisir une langue](SELECT_LANGUAGE.md)
 
 ```Français
     Une version du projet disponible pour toutes les organisations, reposant sur des récupérateurs distants
@@ -15,5 +16,3 @@ Tous les sélecteurs de version de projet
 - [Overrun Organization](https://github.com/Over-Run)
 - [SquidCraftTeam](https://github.com/SquidCraftTeam)
 - [Alliance Xénon - XenFork Union](https://github.com/XenFork)
-
-

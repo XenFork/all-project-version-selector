@@ -1,4 +1,5 @@
-- [简体中文](README.md)
+- [back to index](index.md)
+- [简体中文](README_SZH.md)
 - [English](README_SEN.md)
 - [Deutsch](README_SDE.md)
 - [Japanese](README_SJA.md)

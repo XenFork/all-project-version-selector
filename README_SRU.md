@@ -1,7 +1,8 @@
 # all-project-version-selector
 Все селекторы версий проекта
 
-- [Select Language](SELECT_LANGUAGE.md)
+- [Вернуться на домашнюю страницу](index.md)
+- [Выбор языка](SELECT_LANGUAGE.md)
 
 ```Ксенон Альянс
     Версия проекта, доступная для всех организаций, использующих удаленные средства извлечения данных.
@@ -15,5 +16,3 @@
 - [Overrun Organization](https://github.com/Over-Run)
 - [SquidCraftTeam](https://github.com/SquidCraftTeam)
 - [Ксенон Альянс - XenFork Union](https://github.com/XenFork)
-
-

@@ -1,7 +1,8 @@
 # all-project-version-selector
 Alle Auswahlmöglichkeiten für Projektversionen
 
-- [Select Language](SELECT_LANGUAGE.md)
+- [Zurück zur Startseite](index.md)
+- [Sprache auswählen](SELECT_LANGUAGE.md)
 
 ```deutsch
     Eine Version des Projekts, die allen Organisationen zur Verfügung steht und auf Remote-Retriever angewiesen ist
@@ -15,5 +16,3 @@ Alle Auswahlmöglichkeiten für Projektversionen
 - [Overrun Organization](https://github.com/Over-Run)
 - [SquidCraftTeam](https://github.com/SquidCraftTeam)
 - [Xenon-Allianz - XenFork Union](https://github.com/XenFork)
-
-
