@@ -3,7 +3,8 @@
 This is a project version selector.
 
 - -- 
-- [README](README.md)
+- [读我](README_SZH.md)
+- [README](README_SEN.md)
 - [Select Language](SELECT_LANGUAGE.md)
 
 ---
