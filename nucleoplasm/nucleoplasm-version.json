@@ -1,5 +1,5 @@
 {
-  "nucleoplasm_api_version": "1.0.0.37",
+  "nucleoplasm_api_version": "1.0.0.38",
   "nucleoplasm_feature_repair_version": "1.0.0.0",
 
   "nucleoplasm_colony_version": "1.0.0.0",
@@ -17,7 +17,7 @@
   "nucleoplasm_json_edit_version": "1.0.0.5",
   "nucleoplasm_default_version": "1.0.0.0",
 
-  "nucleoplasm_api_dependencies_version": "1.0.0.36",
+  "nucleoplasm_api_dependencies_version": "1.0.0.37",
 
   "nucleoplasm_json_edit_dependencies_version": "1.0.0.4",
   "nucleoplasm_default_dependencies_version": "1.0.0.0"
