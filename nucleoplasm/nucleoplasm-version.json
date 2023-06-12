@@ -7,7 +7,7 @@
   "nucleoplasm_describer_version": "1.0.0.0",
   "nucleoplasm_economy_version": "1.0.0.0",
   "nucleoplasm_gateway_version": "1.0.0.0",
-  "nucleoplasm_normandy_login_version": "1.0.0.1",
+  "nucleoplasm_normandy_login_version": "1.0.0.2",
   "nucleoplasm_diggers_version": "1.0.0.0",
   "nucleoplasm_fell_fell_lumberjack_version": "1.0.0.0",
 
@@ -21,7 +21,7 @@
 
   "nucleoplasm_api_dependencies_version": "1.0.1.11",
 
-   "nucleoplasm_normandy_login_dependencies_version": "1.0.0.0",
+   "nucleoplasm_normandy_login_dependencies_version": "1.0.0.1",
 
   "nucleoplasm_json_edit_dependencies_version": "1.0.0.4",
   "nucleoplasm_default_dependencies_version": "1.0.0.0"
