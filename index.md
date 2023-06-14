@@ -10,3 +10,4 @@ This is a project version selector.
 ---
 
 - [nucleoplasm](nucleoplasm/index.md)
+- [misty_records](misty_records/index.md)
