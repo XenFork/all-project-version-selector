@@ -1,5 +1,7 @@
 {
   "quickio_version": "1.3.4",
   "toml4j_version": "0.7.2",
-  "snakeyaml_version": "2.0"
+  "snakeyaml_version": "2.0",
+  "leveldb_version": "0.12",
+  "protostuff_version": "1.8.0"
 }
