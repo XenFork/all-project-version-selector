@@ -21,7 +21,7 @@
   "nucleoplasm_default_version": "1.0.0.0",
 
   "nucleoplasm_api_dependencies_version": "1.0.1.17",
-  "nucleoplasm_registry_version": "1.0.0.0",
+  "nucleoplasm_registry_dependencies_version": "1.0.0.0",
 
    "nucleoplasm_normandy_login_dependencies_version": "1.0.0.1",
 
