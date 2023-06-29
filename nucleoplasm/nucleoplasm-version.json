@@ -1,5 +1,7 @@
 {
   "nucleoplasm_api_version": "1.0.1.18",
+  "nucleoplasm_lib_version": "1.0.0.0",
+  "nucleoplasm_nbt_lib_version": "1.0.0.0",
   "nucleoplasm_feature_repair_version": "1.0.0.0",
   "nucleoplasm_registry_version": "1.0.0.0",
   
@@ -22,6 +24,8 @@
 
   "nucleoplasm_api_dependencies_version": "1.0.1.17",
   "nucleoplasm_registry_dependencies_version": "1.0.0.0",
+  "nucleoplasm_lib_dependencies_version": "1.0.0.0",
+  "nucleoplasm_nbt_lib_dependencies_version": "1.0.0.0",
 
    "nucleoplasm_normandy_login_dependencies_version": "1.0.0.1",
 
